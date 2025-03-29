@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.commonMain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.commonTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.jsMain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.jsTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.jvmMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/weiqi-models/weiqi-models.weiqi-models.jvmTest.iml" />
     </modules>

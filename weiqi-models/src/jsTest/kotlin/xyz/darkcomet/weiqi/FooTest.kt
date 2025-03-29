@@ -1,4 +1,4 @@
 package xyz.darkcomet.weiqi
 
-class Foo {
+class FooTest {
 }

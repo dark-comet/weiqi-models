@@ -13,4 +13,12 @@ kotlin {
         nodejs {}
         browser {}
     }
+    
+    sourceSets {
+        val commonTest by getting {
+            dependencies {
+                implementation(kotlin("test"))
+            }
+        }
+    }
 }
