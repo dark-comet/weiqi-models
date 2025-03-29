@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="weiqi-models-js">
+    <output-path>$PROJECT_DIR$/weiqi-models/build/libs</output-path>
+    <root id="archive" name="weiqi-models-js.jar" />
+  </artifact>
+</component>
